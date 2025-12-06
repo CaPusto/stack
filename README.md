@@ -1,5 +1,6 @@
 
-<h1 style="text-align: center;">
+
+<h1 style="color:blue;text-align:center;">
 Stack-2025!<br>A Modern Remake of the Classic "Stack!" (2005)
 </h1>
 
