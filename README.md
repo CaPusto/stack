@@ -25,7 +25,7 @@ Return to 2005 – now playable in any modern browser!
 ## Demo
 
 Play the game online:  
-https://yourusername.github.io/stack-2025 *(replace with your actual GitHub Pages link)*
+https://capusto.github.io/stack/
 
 ## How to Play
 
